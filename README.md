@@ -1,4 +1,4 @@
-## Hi there 👋
+## 😎 
 
 ![snake gif](https://github.com/AlanFC253/AlanFC253/blob/output/github-contribution-grid-snake.gif)
 
