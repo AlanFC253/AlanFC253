@@ -1,36 +1,46 @@
-# Alan F.
+# Hi, I'm Alan 👋  
+# Olá, eu sou o Alan 👋
 
-Backend Engineer | Python | Go | APIs | Docker | PostgreSQL
+Junior Developer focused on building backend systems and learning software architecture.  
+Desenvolvedor Júnior focado em construir sistemas backend e aprender arquitetura de software.
 
-Currently building:
-- Mini Helpdesk (FastAPI + Postgres + Alembic)
-- Excel Template Generator
+---
 
+## 🛠 Tech Stack | Tecnologias
 
-Focus:
-- Backend architecture
+- Python
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- Git
+
+---
+
+## 🚀 Featured Projects | Projetos em Destaque
+
+### 🛠 Mini Helpdesk API
+REST API built with FastAPI and PostgreSQL.  
+API REST construída com FastAPI e PostgreSQL.
+
+### 📊 Excel Template Generator
+Dynamic Excel file generator using Python.  
+Gerador dinâmico de arquivos Excel usando Python.
+
+---
+
+## 📚 Currently Learning | Atualmente Estudando
+
+- API design
+- Database modeling
 - Clean code
-- REST APIs
 - DevOps fundamentals
 
-Goal:
-Transition into Backend / SRE roles.
- 
+---
 
-![snake gif](https://github.com/AlanFC253/AlanFC253/blob/output/github-contribution-grid-snake.gif)
+## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanFC253&show_icons=true&theme=tokyonight)
 
-<!--
-**AlanFC253/AlanFC253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanFC253&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
