@@ -12,6 +12,7 @@ Desenvolvedor Júnior focado em construir sistemas backend e aprender arquitetur
 - FastAPI
 - PostgreSQL
 - SQLAlchemy
+- Go
 - Docker
 - Git
 
